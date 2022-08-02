@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://whorahulnayak.github.io/portfolio/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://rahul-nayak-portfolio.me/)**
 
 - 📫 How to reach me **whorahulnayak@gmail.com**
 
